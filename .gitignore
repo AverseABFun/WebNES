@@ -1,6 +1,5 @@
 /project/tools/node_modules
 /node_modules
-/out
 /.tmp
 /project/tools/nesDbParser/out
 /project/tools/nesDbParser/log.txt
